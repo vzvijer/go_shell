@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+.container {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: black;
+    color: greenyellow;
+    font-family: 'Inconsolata', monospace;
+}
+
+.command {
+    color: red;
+}
+
+.result {
+    color: green;
+}
+
+#command {
+    width: 100%;
+    height: 3rem;
+}
